@@ -14,8 +14,7 @@ function App() {
             <Routes>
               <Route path="/" element={<BackGroundVideo/>}/>
               {/*<Route path="/catalogue" element={<Catalogue/>}/>
-                <Route path="/services" element={<Services/>}/> */}
-              
+                <Route path="/services" element={<Services/>}/> */}             
             </Routes> 
           
         </HashRouter>
